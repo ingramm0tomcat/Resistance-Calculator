@@ -217,4 +217,4 @@ Resistance Calculator is provided as a full free version with all features and u
 Ready to enhance your electronics knowledge? **Download Resistance Calculator free today and start calculating resistance values with ease!**
 
 ---
-**Last updated:** 2026-10-11 08:07:53 UTC
+**Last updated:** 2026-10-11 15:15:05 UTC
